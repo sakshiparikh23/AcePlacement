@@ -1,5 +1,6 @@
 #TPO Website
 <h2>Getting Started</h2>
+![home](https://user-images.githubusercontent.com/46722282/93333018-5a039100-f840-11ea-82af-5586d27a4308.png)
 <p>Steps:</p>
 <ol>
 <li>Clone/pull/download this repository</li>
