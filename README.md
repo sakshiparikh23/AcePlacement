@@ -1,5 +1,5 @@
 # TPO_website
-Since last week was Programmer's day so me and my team Dhruv Desai Hrithik Chauhan planned to design a website for Training and Placement Cell. We had designed with the help of Django as a back-end and Bulma(which is a CSS framework).
+Since last week was Programmer's day so me and my team Dhruv Desai, Hrithik Chauhan planned to design a website for Training and Placement Cell. We had designed with the help of Django as a back-end and Bulma(which is a CSS framework).
 
 ->Our project consists of sign in and login page for students as well for admin.
 
